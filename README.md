@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lizbeth-ortega-duarte-1a90922b6/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LizbethOD"/></a>
-<a href = "mailto:lizbeth.ortega1401@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@LizbethOD"  /></a>
   </p>
 <br>
 <h2>About me 🌸</h2>
